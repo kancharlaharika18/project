@@ -3,15 +3,8 @@ movie database system
 PROJECT REPORT
 MOVIE DATABASE MANAGEMENT SYSTEM
 Submitted by
-Sathala Sumanth
-Athira P
-Ahalya K
-Navya M
 Harika
-Shaheena
-Sowmiya
-
- SUBMITTED TO
+SUBMITTED TO
 B.CHINNA KESHAVA REDDY
 ABSTRACT:
 The Movie Database Management System is designed to efficiently store, organize, and
